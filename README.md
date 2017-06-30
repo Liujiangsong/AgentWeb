@@ -1,3 +1,11 @@
+
+https://x5.tencent.com/tbs/guide.html
+把腾讯的X5 封装webview的集成进去替换原生的webview    
+
+
+
+
+
 ![](./img/logo.png)
 
 [![License][licensesvg]][license]
